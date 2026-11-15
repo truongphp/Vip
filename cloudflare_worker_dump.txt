@@ -1,0 +1,18 @@
+=== 1. DANH SÁCH TOÀN BỘ URL TÌM THẤY TRONG SCRIPT ===
+
+=== 2. CÁC ROUTE / PATH NỘI BỘ TRONG SCRIPT ===
+
+=== 3. KẾT QUẢ THĂM DÒ (PROBE) CLOUDFLARE WORKER ===
+
+--- [404] https://b1steam-frames-1.nhb-120111.workers.dev (58 bytes) ---
+{"ok":false,"error":"Not found","worker":"b1steam-frames"}
+
+--- [200] https://b1steam-frames-1.nhb-120111.workers.dev/frames (6361 bytes) ---
+{"ok":true,"worker":"b1steam-frames","version":"4.0.0","count":38,"groups":{"Gold":3,"Seasonal":5,"Kawaii":16,"Photo Booth":13,"Sticker":1},"frames":[{"id":"frame-royal-gold","name":"Khung Vàng Hoàng Gia","group":"Gold","file":"frame_royal_gold.png","tags":["gold","vàng","hoàng gia","sinh nhật"],"premium":true},{"id":"frame-12-gold","name":"Khung Vàng Kim Cương","group":"Gold","file":"frame-12-gold.png","tags":["gold","vàng","kim cương"],"premium":true},{"id":"frame-cmt-locket","name":"Khung Comment Locket","group":"Gold","file":"cmt_locket.png","tags":["comment","locket","vàng"],"premium":false},{"id":"frame-08-valentine","name":"Khung Valentine","group":"Seasonal","file":"frame-08-valentine.png","tags":["valentine","tình yêu","2/14"],"premium":false},{"id":"frame-09-christmas","name":"Khung Giáng Sinh","group":"Seasonal","file":"frame-09-christmas.png","tags":["christmas","giáng sinh","noel"],"premium":false},{"id":"frame-10-halloween","name":"Khung Halloween","group":"Seasonal","file":"frame-10-halloween.png","tags":["halloween","ma quỷ","halloween"],"premium":false},{"id":"frame-11-neon","name":"Khung Neon","group":"Seasonal","file":"frame-11-neon.png","tags":["neon","cyberpunk","màu"],"premium":false},{"id":"frame-13-pastel","name":"Khung Pastel","group":"Kawaii","file":"frame-13-pastel.png","tags":["pastel","kawaii","màu nhạt"],"premium":false},{"id":"frame-14-crayon","name":"Khung Crayon","group":"Kawaii","file":"frame-14-crayon.png","tags":["crayon","sáp màu","vẽ tay"],"premium":false},{"id":"frame-citopia-y2k","name":"Khung Citopia Y2K","group":"Kawaii","file":"frame_citopia_y2k.png","tags":["y2k","citopia","kawaii"],"premium":true},{"id":"frame-kitty-shinchan","name":"Khung Kitty & Shin-chan","group":"Kawaii","file":"frame_kitty_shinchan.png","tags":["kitty","shin chan","kawaii"],"premium":true},{"id":"frame-lowg-l2k","name":"Khung Low G L2K","group":"Kawaii","file":"frame_lowg_l2k.png","tags":["l2k","low g","kawaii"],"premium":true},{"id":"khung-hello-kit
+...[Cắt bớt]...
+
+--- [404] https://b1steam-frames-1.nhb-120111.workers.dev/list (58 bytes) ---
+{"ok":false,"error":"Not found","worker":"b1steam-frames"}
+
+--- [404] https://b1steam-frames-1.nhb-120111.workers.dev/index.json (58 bytes) ---
+{"ok":false,"error":"Not found","worker":"b1steam-frames"}
