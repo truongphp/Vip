@@ -1,0 +1,1286 @@
+{
+  "pb_khung4_merry_christmas": {
+    "name": "🎄 Thư Giáng Sinh (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/YF00nDj6/pb-khung4-merry-christmas.png",
+    "bg": "#202020"
+  },
+  "pb_khung4_christmas_palette": {
+    "name": "❄️ Giáng Sinh Tuyết Xanh (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/SXTc7j3j/pb-khung4-christmas-palette.png",
+    "bg": "#426E89"
+  },
+  "pb_khung4_happy_birthday": {
+    "name": "🎂 Sinh Nhật Y2K (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/DfqT9Gvx/pb-khung4-happy-birthday.png",
+    "bg": "#242424"
+  },
+  "pb_khung4_shin1": {
+    "name": "🖍️ Shin Xanh Tinh Nghịch (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/qMXzLW0m/pb-khung4-shin1.png",
+    "bg": "#279ED6"
+  },
+  "pb_khung4_shin2": {
+    "name": "🖍️ Shin Hồng Dễ Thương (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/SX37qV42/pb-khung4-shin2.png",
+    "bg": "#ED75B1"
+  },
+  "pb_khung4_shin3": {
+    "name": "🖍️ Shin Cam Năng Động (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/C5wvqhPD/pb-khung4-shin3.png",
+    "bg": "#EF6217"
+  },
+  "pb_khung4_smile": {
+    "name": "😊 Smile! (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/JFFfmYFH/pb-khung4-smile.png",
+    "bg": "#252525"
+  },
+  "pb_khung4_scrapbook_do": {
+    "name": "📕 Scrapbook Đỏ (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/6cnQVdCQ/pb-khung4-scrapbook-do.png",
+    "bg": "#671C2A"
+  },
+  "pb_khung4_inspire_arena": {
+    "name": "🎵 Inspire Arena (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/DPc6g4Ly/pb-khung4-inspire-arena.png",
+    "bg": "#267BB5"
+  },
+  "pb_khung4_my_vault": {
+    "name": "⚡ My Vault (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/27mkQp7C/pb-khung4-my-vault.png",
+    "bg": "#292929"
+  },
+  "pb_khung4_cham_bi": {
+    "name": "🔴 Chấm Bi (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/cKGFdKSp/pb-khung4-cham-bi.png",
+    "bg": "#694A4B"
+  },
+  "pb_khung4_cham_bi_den": {
+    "name": "⚫ Chấm Bi Đen (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/zVBL0hh6/pb-khung4-cham-bi-den.png",
+    "bg": "#242424"
+  },
+  "pb_khung4_likeble": {
+    "name": "💛 Likeble (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/xKYkHGmF/pb-khung4-likeble.png",
+    "bg": "#B39C57"
+  },
+  "pb_khung4_razzle": {
+    "name": "📸 Razzle Dazzle (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/ZpdY2H71/pb-khung4-razzle.png",
+    "bg": "#806044"
+  },
+  "pb_khung4_your_title": {
+    "name": "📰 Your Title (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/35TDrj7n/pb-khung4-your-title.png",
+    "bg": "#60462D"
+  },
+  "pb_khung4_soulmate_film": {
+    "name": "🎞️ Soulmate Film (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/C3cyySQR/pb-khung4-soulmate-film.png",
+    "bg": "#8C2937"
+  },
+  "pb_khung4_mimi": {
+    "name": "📸 Mimi Say Cheese (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/sJHFq9j9/pb-khung4-mimi.png",
+    "bg": "#5D8DBA"
+  },
+  "pb_khung4_fairy_film": {
+    "name": "🧚 Fairy Film (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/BHrQGyPf/pb-khung4-fairy-film.png",
+    "bg": "#344F7B"
+  },
+  "pb_khung4_foto_lush": {
+    "name": "📷 Foto Lush (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/vx6CdPYc/pb-khung4-foto-lush.png",
+    "bg": "#6F6A63"
+  },
+  "pb_khung4_photoism": {
+    "name": "📷 Photoism (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/bg1Dw53w/pb-khung4-photoism.png",
+    "bg": "#242424"
+  },
+  "pb_khung4_twinkle_booth": {
+    "name": "⭐ Twinkle Booth (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/fh9wYNX/pb-khung4-twinkle-booth.png",
+    "bg": "#674323"
+  },
+  "pb_khung4_equinox": {
+    "name": "🎞️ Equinox Studio (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/gZhnjZ7V/pb-khung4-equinox.png",
+    "bg": "#174C9B"
+  },
+  "pb_khung4_i_love_you": {
+    "name": "💌 I Love You (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/Z1fb9Yh5/pb-khung4-i-love-you.png",
+    "bg": "#795D3D"
+  },
+  "pb_khung4_film": {
+    "name": "🎞️ Cuộn Phim 35mm (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/whHGH0MK/pb-khung4-film.png",
+    "bg": "#1C1C1C"
+  },
+  "pb_khung4_dream_cream": {
+    "name": "🧥 Denim & Kem (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/mCnq1mMS/pb-khung4-dream-cream.png",
+    "bg": "#405978"
+  },
+  "pb_khung4_scrapbook": {
+    "name": "📒 Scrapbook Kỷ Niệm (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/tTJdynGR/pb-khung4-scrapbook.png",
+    "bg": "#C9B08A"
+  },
+  "pb_khung4_so_cool": {
+    "name": "🩷 So Cool (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/FqKGm5qJ/pb-khung4-so-cool.png",
+    "bg": "#D85C9A"
+  },
+  "pb_khung4_berry_days": {
+    "name": "🍓 Berry Days (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/7dbRpNJX/pb-khung4-berry-days.png",
+    "bg": "#FFB6C1"
+  },
+  "pb_khung4_happy_snap": {
+    "name": "💜 Happy Snap (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/pBjNNLqC/pb-khung4-happy-snap.png",
+    "bg": "#5F5098"
+  },
+  "pb_khung4_sky_diary": {
+    "name": "☁️ Sky Diary (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/bjqY3RKJ/pb-khung4-sky-diary.png",
+    "bg": "#73815B"
+  },
+  "pb_khung4_4cut": {
+    "name": "🎀 Photobooth 4 ô",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/hxppY9Lp/pb-khung4-4cut.png",
+    "bg": "#FFD6E0"
+  },
+  "pb_khung4_holo_4cut": {
+    "name": "💿 Photobooth Y2K Holo (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/JFQQGLpm/pb-khung4-holo-4cut.png",
+    "bg": "#C4B5FD"
+  },
+  "pb_khung4_scrapbook_ripped_4cut": {
+    "name": "📜 Photobooth Scrapbook (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/gLBgvDvc/pb-khung4-scrapbook-ripped-4cut.png",
+    "bg": "#D6A36A"
+  },
+  "pb_khung4_ripped_paper_4cut": {
+    "name": "📄 Photobooth Ripped Paper (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/fwX2kqn/pb-khung4-ripped-paper-4cut.png",
+    "bg": "#8D2424"
+  },
+  "pb_khung4_denim_ripped_2x2": {
+    "name": "👖 Photobooth Denim 4 ô",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/pvhMQFqf/pb-khung4-denim-ripped-2x2.png",
+    "bg": "#315574"
+  },
+  "pb_khung4_dem_day_sao": {
+    "name": "🌌 Đêm Đầy Sao (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/mL95gjC/pb-khung4-dem-day-sao.png",
+    "bg": "#204C9A"
+  },
+  "pb_khung4_vit_da_ngoai": {
+    "name": "🦆 Vịt Đi Dã Ngoại (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/nN6103DG/pb-khung4-vit-da-ngoai.png",
+    "bg": "#E5B35B"
+  },
+  "pb_khung4_bo_xanh": {
+    "name": "🥑 Bơ Xanh Mơ Màng (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/gLc8TZwf/pb-khung4-bo-xanh.png",
+    "bg": "#99B65A"
+  },
+  "pb_khung4_snoopy": {
+    "name": "🐶 Snoopy & Bạn Bè (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/LXxNrSWy/pb-khung4-snoopy.png",
+    "bg": "#556D80"
+  },
+  "pb_khung4_hoi_ban_hoat_hinh": {
+    "name": "🎨 Hội Bạn Hoạt Hình (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/sJRdg8vh/pb-khung4-hoi-ban-hoat-hinh.png",
+    "bg": "#EEA5BB"
+  },
+  "pb_khung4_khung_long_pastel": {
+    "name": "🦖 Khủng Long Pastel (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/b80KZ2r/pb-khung4-khung-long-pastel.png",
+    "bg": "#B99ED8"
+  },
+  "pb_khung4_bt21_tim": {
+    "name": "💜 BT21 Disco Tím (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/WNH28JC3/pb-khung4-bt21-tim.png",
+    "bg": "#9F85DC"
+  },
+  "pb_khung4_gau_cookie": {
+    "name": "🍪 Gấu Bánh Cookie (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/KcWGRbgf/pb-khung4-gau-cookie.png",
+    "bg": "#B9793E"
+  },
+  "pb_khung4_capybara_tra_sua": {
+    "name": "🧋 Capybara Trà Sữa (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/MKRWvmk/pb-khung4-capybara-tra-sua.png",
+    "bg": "#BD8969"
+  },
+  "pb_khung4_pudding_vang": {
+    "name": "🍮 Tiệm Pudding Vàng (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/hJCbLyLh/pb-khung4-pudding-vang.png",
+    "bg": "#D6A447"
+  },
+  "pb_khung4_meo_tiem_banh": {
+    "name": "🥐 Tiệm Bánh Mèo Mơ (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/ync3BpkT/pb-khung4-meo-tiem-banh.png",
+    "bg": "#DC9971"
+  },
+  "pb_khung4_cinnamoroll_may_xanh": {
+    "name": "☁️ Cinnamoroll Mây Xanh (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/yBh25xPx/pb-khung4-cinnamoroll-may-xanh.png",
+    "bg": "#75B6DF"
+  },
+  "pb_khung4_minions": {
+    "name": "🍌 Minions Tinh Nghịch (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/bR1fJD0y/pb-khung4-minions.png",
+    "bg": "#E5C545"
+  },
+  "pb_khung4_tiem_banh_mat_ong": {
+    "name": "🍯 Tiệm Bánh Mật Ong (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/gZDMzLDT/pb-khung4-tiem-banh-mat-ong.png",
+    "bg": "#D79D52"
+  },
+  "pb_khung4_totoro_rung_xanh": {
+    "name": "🌿 Totoro Rừng Xanh (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/tPCXrzN5/pb-khung4-totoro-rung-xanh.png",
+    "bg": "#8EAA61"
+  },
+  "pb_khung4_kuromi_no_tim": {
+    "name": "🖤 Kuromi Nơ Tím (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/cKSc7sw5/pb-khung4-kuromi-no-tim.png",
+    "bg": "#8B64A1"
+  },
+  "pb_khung4_cho_vang_cau_vong": {
+    "name": "🌈 Cún Vàng Cầu Vồng (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/Lh9qXCC9/pb-khung4-cho-vang-cau-vong.png",
+    "bg": "#D4B74C"
+  },
+  "pb_khung4_conan_trinh_tham": {
+    "name": "🔍 Conan Thám Tử Nhí (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/dsTmhh0d/pb-khung4-conan-trinh-tham.png",
+    "bg": "#274C82"
+  },
+  "pb_khung4_tho_dau_tay": {
+    "name": "🍓 Thỏ Dâu Tây (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/W4YZVHZW/pb-khung4-tho-dau-tay.png",
+    "bg": "#DF8CA2"
+  },
+  "pb_khung4_cinnamoroll_thien_than": {
+    "name": "👼 Cinnamoroll Thiên Thần (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/4R5c4s7y/pb-khung4-cinnamoroll-thien-than.png",
+    "bg": "#E6A1C7"
+  },
+  "pb_khung4_bt21_do": {
+    "name": "❤️ BT21 Rực Rỡ (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/vvY4RYsS/pb-khung4-bt21-do.png",
+    "bg": "#DB5260"
+  },
+  "pb_khung4_capybara_ca_phe": {
+    "name": "☕ Capybara Tiệm Cà Phê (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/60jQ2f3f/pb-khung4-capybara-ca-phe.png",
+    "bg": "#AF805D"
+  },
+  "pb_khung4_my_melody_hong": {
+    "name": "🎀 My Melody Hồng (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/Pv8yJvcp/pb-khung4-my-melody-hong.png",
+    "bg": "#DC84AD"
+  },
+  "pb_khung4_loopy_tra_sua": {
+    "name": "🧋 Loopy Trà Sữa (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/bjt3cQ70/pb-khung4-loopy-tra-sua.png",
+    "bg": "#D991AB"
+  },
+  "pb_khung4_koala_may_xanh": {
+    "name": "🐨 Koala Ngủ Trên Mây (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/RknLZ8Sf/pb-khung4-koala-may-xanh.png",
+    "bg": "#8FAFD7"
+  },
+  "pb_khung4_totoro": {
+    "name": "🌱 Totoro Khu Vườn Nhỏ (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/bMP3vp4d/pb-khung4-totoro.png",
+    "bg": "#91A766"
+  },
+  "pb_khung4_kuromi_tim": {
+    "name": "💜 Kuromi Tím Mộng Mơ (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/wNMKRFpn/pb-khung4-kuromi-tim.png",
+    "bg": "#A377C2"
+  },
+  "pb_khung4_gau_ngu_trang_sao": {
+    "name": "🌙 Gấu Ngủ Trăng Sao (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/1GpMwDVm/pb-khung4-gau-ngu-trang-sao.png",
+    "bg": "#A899D6"
+  },
+  "pb_khung4_bt21_party": {
+    "name": "🎉 BT21 Party (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/Y4JGdtRB/pb-khung4-bt21-party.png",
+    "bg": "#BE88C0"
+  },
+  "pb_khung4_scrapbook_xanh": {
+    "name": "📘 Scrapbook Xanh Dịu (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/xK7ybYPr/pb-khung4-scrapbook-xanh.png",
+    "bg": "#9DAEC9"
+  },
+  "pb_khung4_vit_vuon_hoa": {
+    "name": "🌼 Vịt Trong Vườn Hoa (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/MxSWVFWS/pb-khung4-vit-vuon-hoa.png",
+    "bg": "#A8C576"
+  },
+  "pb_khung4_bts": {
+    "name": "💜 BTS Tím Yêu Thương (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/rGvvfDv4/pb-khung4-bts.png",
+    "bg": "#A67AD1"
+  },
+  "pb_khung4_conan": {
+    "name": "🕵️ Conan Phá Án (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/4nYH8Mvr/pb-khung4-conan.png",
+    "bg": "#28578C"
+  },
+  "pb_khung4_cortis": {
+    "name": "🩵 CORTIS Xanh Thanh Xuân (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/Vp0QWcj7/pb-khung4-cortis.png",
+    "bg": "#9AB7DB"
+  },
+  "pb_khung4_doraemon": {
+    "name": "🔔 Doraemon & Hội Bạn (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/kVKFrSc4/pb-khung4-doraemon.png",
+    "bg": "#62ACDB"
+  },
+  "pb_khung4_dragon_ball": {
+    "name": "🐉 Dragon Ball Bùng Nổ (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/zWfhzwzL/pb-khung4-dragon-ball.png",
+    "bg": "#E49C36"
+  },
+  "pb_khung4_one_piece": {
+    "name": "🏴‍☠️ One Piece Ra Khơi (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/ymBz6PxW/pb-khung4-one-piece.png",
+    "bg": "#DAAA58"
+  },
+  "pb_khung4_thuy_thu_mat_trang": {
+    "name": "🌙 Thủy Thủ Mặt Trăng (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/rGYcQ96C/pb-khung4-thuy-thu-mat-trang.png",
+    "bg": "#E69ABF"
+  },
+  "pb_khung4_shin_cau_vong": {
+    "name": "🌈 Shin Cậu Bé Bút Chì (4 ô)",
+    "category": "PhotoBooth 4 ảnh",
+    "url": "https://i.ibb.co/Mks6JYLR/pb-khung4-shin-cau-vong.png",
+    "bg": "#D8AF4A"
+  },
+  "pb_khung2_Polaroid_vintage": {
+    "name": "🎞️ Polaroid Vintage (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/LXNdDjTq/pb-khung2-Polaroid-vintage.png",
+    "bg": "#8D7B66"
+  },
+  "pb_khung2_merry_christmas": {
+    "name": "🎄 Giáng Sinh Len Ấm (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/233fXMdF/pb-khung2-merry-christmas.png",
+    "bg": "#97312F"
+  },
+  "pb_khung2_soulmate": {
+    "name": "🖤 Soulmate (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/svMSY8tv/pb-khung2-soulmate.png",
+    "bg": "#353535"
+  },
+  "pb_khung2_monkey": {
+    "name": "🐵 Đôi Bạn Monkey (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/8DdVxVHj/pb-khung2-monkey.png",
+    "bg": "#514D29"
+  },
+  "pb_khung2_love_postcard": {
+    "name": "💌 Love Postcard (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/mCjwcWzp/pb-khung2-love-postcard.png",
+    "bg": "#673C52"
+  },
+  "pb_khung2_camera_pic": {
+    "name": "📷 Camera Kỷ Niệm (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/pvVyhPTT/pb-khung2-camera-pic.png",
+    "bg": "#11182C"
+  },
+  "pb_khung2_anhdep": {
+    "name": "📸 Hai Tấm Xinh Xinh (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/s8v3t3s/pb-khung2-anhdep.png",
+    "bg": "#7F0000"
+  },
+  "pb_khung2_anhco": {
+    "name": "🎞️ Ký Ức Polaroid (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/HL5vrTyB/pb-khung2-anhco.png",
+    "bg": "#303030"
+  },
+  "pb_khung2_di_choi_thoi": {
+    "name": "🚶 Hẹn Nhau Đi Chơi (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/dJrDLFdR/pb-khung2-di-choi-thoi.png",
+    "bg": "#9B292D"
+  },
+  "pb_khung2_len_do": {
+    "name": "👗 Lên Đồ Đi Chơi (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/tptL8rTs/pb-khung2-len-do.png",
+    "bg": "#300020"
+  },
+  "pb_khung2_tin_nong": {
+    "name": "📰 Tin Nóng Hôm Nay (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/TxZz1LZP/pb-khung2-tin-nong.png",
+    "bg": "#E0C080"
+  },
+  "pb_khung2_thang_ngay_ben_nhau": {
+    "name": "❤️ Tháng Ngày Bên Nhau (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/nM9ck8n1/pb-khung2-thang-ngay-ben-nhau.png",
+    "bg": "#C00000"
+  },
+  "pb_khung2_may_anh": {
+    "name": "📷 Góc Máy Thanh Xuân (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/Q702sBD4/pb-khung2-may-anh.png",
+    "bg": "#77776F"
+  },
+  "pb_khung2_ki_niem": {
+    "name": "💜 Kỷ Niệm Chúng Mình (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/R4TL68B5/pb-khung2-ki-niem.png",
+    "bg": "#E080F0"
+  },
+  "pb_khung2_khi_tinh_iu_den": {
+    "name": "💙 Khi Tình Yêu Đến (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/Df2479jr/pb-khung2-khi-tinh-iu-den.png",
+    "bg": "#0040E0"
+  },
+  "pb_khung2_khi_e_vang": {
+    "name": "🖤 Khi Em Vắng Anh (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/XkXPC558/pb-khung2-khi-e-vang.png",
+    "bg": "#252525"
+  },
+  "pb_khung2_dieu_em_uoc_ao": {
+    "name": "⭐ Điều Em Ước Ao (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/zVgvLwkx/pb-khung2-dieu-em-uoc-ao.png",
+    "bg": "#B66ABB"
+  },
+  "pb_khung2_thelove": {
+    "name": "📰 The Love Times (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/cjj1b41/pb-khung2-thelove.png",
+    "bg": "#111111"
+  },
+  "pb_khung2_outfit": {
+    "name": "👕 Outfit Check (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/q33Y6XBt/pb-khung2-outfit.png",
+    "bg": "#2C2C2C"
+  },
+  "pb_khung2_thu_tinh": {
+    "name": "💌 Thư Tình Ngọt Ngào (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/tGS73Cb/pb-khung2-thu-tinh.png",
+    "bg": "#F3C7CF"
+  },
+  "pb_khung2_cuoi_vespa": {
+    "name": "🛵 Cưới Vespa (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/4Rc6t4wk/pb-khung2-cuoi-vespa.png",
+    "bg": "#159AAF"
+  },
+  "pb_khung2_cinnamoroll": {
+    "name": "☁️ Cinnamoroll Đôi Mình (2 ô)",
+    "category": "PhotoBooth 2 ảnh",
+    "url": "https://i.ibb.co/cSXjLD1p/pb-khung2-cinnamoroll.png",
+    "bg": "#99B7D5"
+  },
+  "pb_khung3_christmas1": {
+    "name": "🦌 Giáng Sinh Tuần Lộc (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/prsH9f2D/pb-khung3-christmas1.png",
+    "bg": "#900D13"
+  },
+  "pb_khung3_christmas2": {
+    "name": "🎄 Giáng Sinh Selfie (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/mrXhxB8r/pb-khung3-christmas2.png",
+    "bg": "#AF3038"
+  },
+  "pb_khung3_christmas3": {
+    "name": "🎅 Ho Ho Ho! (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/5x12NqMr/pb-khung3-christmas3.png",
+    "bg": "#9E1714"
+  },
+  "pb_khung3_we_are_friend": {
+    "name": "🩷 Chúng Mình Là Bạn (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/1GjhMxjy/pb-khung3-we-are-friend.png",
+    "bg": "#D76A9A"
+  },
+  "pb_khung3_taste_of_love": {
+    "name": "💙 Hương Vị Tình Yêu (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/ccTcxLkh/pb-khung3-taste-of-love.png",
+    "bg": "#415C9E"
+  },
+  "pb_khung3_google": {
+    "name": "🔍 Google: Tình Yêu Là Gì? (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/CpXsvnD6/pb-khung3-google.png",
+    "bg": "#4285F4"
+  },
+  "pb_khung3_photo_iphone": {
+    "name": "📱 Photo iPhone (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/rKjTNJGN/pb-khung3-photo-iphone.png",
+    "bg": "#CAC9D2"
+  },
+  "pb_khung3_polaroid2": {
+    "name": "🎞️ Polaroid Kỷ Niệm (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/KRmvDMv/pb-khung3-polaroid2.png",
+    "bg": "#32312E"
+  },
+  "pb_khung3_fruit": {
+    "name": "🍓 Hội Trái Cây (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/t6CJPR5/pb-khung3-fruit.png",
+    "bg": "#E97B91"
+  },
+  "pb_khung3_da_bao": {
+    "name": "🐆 Da Báo (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/60SxrSfM/pb-khung3-da-bao.png",
+    "bg": "#694C35"
+  },
+  "pb_khung3_mothaiba": {
+    "name": "✌️ Một Hai Ba (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/SX2XNR2H/pb-khung3-mothaiba.png",
+    "bg": "#7296BE"
+  },
+  "pb_khung3_ngay_mai_tuoi_sang": {
+    "name": "☀️ Ngày Mai Tươi Sáng (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/6JJ4bpRz/pb-khung3-ngay-mai-tuoi-sang.png",
+    "bg": "#242424"
+  },
+  "pb_khung3_memory": {
+    "name": "🌲 Memory Lane (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/Z6qGH95K/pb-khung3-memory.png",
+    "bg": "#103020"
+  },
+  "pb_khung3_Vinyl": {
+    "name": "🎵 Vinyl Memories (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/Y4Wg5LLK/pb-khung3-Vinyl.png",
+    "bg": "#581C24"
+  },
+  "pb_khung3_Polaroid": {
+    "name": "📸 Polaroid Nhật Ký (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/99qqLC2C/pb-khung3-Polaroid.png",
+    "bg": "#DC2626"
+  },
+  "pb_khung3_photodump": {
+    "name": "✨ Photo Dump Hôm Nay (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/ZpBk2qsn/pb-khung3-photodump.png",
+    "bg": "#C49A6C"
+  },
+  "pb_khung3_hoi_ban_than": {
+    "name": "👯 Hội Bạn Thân (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/r9FrQNN/pb-khung3-hoi-ban-than.png",
+    "bg": "#A0B060"
+  },
+  "pb_khung3_hen_nha": {
+    "name": "💕 Hẹn Nhau Nha (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/rGn7k7ZX/pb-khung3-hen-nha.png",
+    "bg": "#E0B0B0"
+  },
+  "pb_khung3_love_so_much": {
+    "name": "❤️ Love So Much (3 ô)",
+    "category": "PhotoBooth 3 ảnh",
+    "url": "https://i.ibb.co/VWBhSL5V/pb-khung3-love-so-much.png",
+    "bg": "#7A0010"
+  },
+  "pb_khung1_color": {
+    "name": "🌈 Cầu Vồng Kẹo Ngọt",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/nMzqD0Ds/pb-khung1-color.png",
+    "bg": "#D968A1"
+  },
+  "pb_khung1_meow": {
+    "name": "🐱 Meow",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/yc6B63Tf/pb-khung1-meow.png",
+    "bg": "#AB773F"
+  },
+  "pb_khung1_sao_nen_trang": {
+    "name": "⭐ Sao Nền Trắng",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/mV2d5jjn/pb-khung1-sao-nen-trang.png",
+    "bg": "#515B69"
+  },
+  "pb_khung1_nen_mua": {
+    "name": "🌧️ Nền Mưa",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/fd23DWTx/pb-khung1-nen-mua.png",
+    "bg": "#657D92"
+  },
+  "pb_khung1_meme_meo": {
+    "name": "😹 Mèo Meme",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/bj7F0CjH/pb-khung1-meme-meo.png",
+    "bg": "#826751"
+  },
+  "pb_khung1_faker": {
+    "name": "🏆 Faker",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/PGMqg3QP/pb-khung1-faker.png",
+    "bg": "#282622"
+  },
+  "pb_khung1_mona_lisa": {
+    "name": "🖼️ Mona Lisa",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/sp0VdQR6/pb-khung1-mona-lisa.png",
+    "bg": "#5D512B"
+  },
+  "pb_khung1_locket_camera": {
+    "name": "📸 Locket Camera",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/qM92BZJN/pb-khung1-locket-camera.png",
+    "bg": "#202020"
+  },
+  "pb_khung1_spotifyPC": {
+    "name": "🎧 Spotify PC",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/JR6bpNTx/pb-khung1-spotify-PC.png",
+    "bg": "#23282B"
+  },
+  "pb_khung1_spotify_hong": {
+    "name": "🩷 Spotify Hồng",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/Bd85vXd/pb-khung1-spotify-hong.png",
+    "bg": "#C83978"
+  },
+  "pb_khung1_camfuji": {
+    "name": "📷 Fuji Film",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/gFTKZ7Nb/pb-khung1-camfuji.png",
+    "bg": "#161616"
+  },
+  "pb_khung1_messi": {
+    "name": "🏆 Messi Cúp",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/vv68Hb1k/pb-khung1-messi.png",
+    "bg": "#258599"
+  },
+  "pb_khung1_ronaldo_cup": {
+    "name": "🏆 Ronaldo Cúp",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/4wTX3mjr/pb-khung1-ronaldo-cup.png",
+    "bg": "#A82432"
+  },
+  "pb_khung1_menu_ios": {
+    "name": "📱 Menu iOS",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/SwYnwHbk/pb-khung1-menu-ios.png",
+    "bg": "#36343D"
+  },
+  "pb_khung1_the_hinh": {
+    "name": "💪 Thể Hình",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/qY56FK9t/pb-khung1-the-hinh.png",
+    "bg": "#6E4634"
+  },
+  "pb_khung1_iphone": {
+    "name": "🎵 Now Playing",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/1tNyKJLS/pb-khung1-iphone.png",
+    "bg": "#303A43"
+  },
+  "pb_khung1_tivi": {
+    "name": "📺 Ký Ức Màn Hình",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/LD3FTZPQ/pb-khung1-tivi.png",
+    "bg": "#686962"
+  },
+  "pb_khung1_the_gioi_cua_2_ta": {
+    "name": "💕 Thế Giới Của Hai Ta",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/5xFnwjQV/pb-khung1-the-gioi-cua-2-ta.png",
+    "bg": "#222222"
+  },
+  "pb_khung1_selflove": {
+    "name": "🤍 Self Love Club",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/GQyrqhWR/pb-khung1-selflove.png",
+    "bg": "#383530"
+  },
+  "pb_khung1_ptb": {
+    "name": "📼 MIXTAPE VOIL.1",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/kddzGfK/pb-khung1-ptb.png",
+    "bg": "#222222"
+  },
+  "pb_khung1_oi_tinh_yeu": {
+    "name": "💚 Ôi, Tình Yêu!",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/n461YLp/pb-khung1-oi-tinh-yeu.png",
+    "bg": "#90F000"
+  },
+  "pb_khung1_card": {
+    "name": "🪪 Thẻ Thanh Xuân",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/Kpnz06yQ/pb-khung1-card.png",
+    "bg": "#103060"
+  },
+  "pb_khung1_love_e_nhiu": {
+    "name": "💖 Love Em Nhiều",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/Ps6kjFsQ/pb-khung1-love-e-nhiu.png",
+    "bg": "#E77C30"
+  },
+  "pb_khung1_ki_niem_tuoi_dep": {
+    "name": "🖼️ Kỷ Niệm Tươi Đẹp",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/DfdLM7yc/pb-khung1-ki-niem-tuoi-dep.png",
+    "bg": "#252525"
+  },
+  "pb_khung1_ins": {
+    "name": "📷 Instagram Moments",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/NdLq5Pwz/pb-khung1-ins.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_hoi_chieu_troi_mua": {
+    "name": "🌧️ Hồi Chiều Trời Mưa",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/0RrmCJD5/pb-khung1-hoi-chieu-troi-mua.png",
+    "bg": "#C02030"
+  },
+  "pb_khung1_dia": {
+    "name": "💿 Chiếc Đĩa Kỷ Niệm",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/nsQ6fQc1/pb-khung1-dia.png",
+    "bg": "#8B641E"
+  },
+  "pb_khung1_chuong_cuoi": {
+    "name": "📖 Chương Cuối Thanh Xuân",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/jP9pjPwm/pb-khung1-chuong-cuoi.png",
+    "bg": "#515151"
+  },
+  "pb_khung1_maytinh": {
+    "name": "🖥️ Màn Hình Hoài Niệm",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/HTkvY33t/pb-khung1-maytinh.png",
+    "bg": "#706050"
+  },
+  "pb_khung1_mat_tin_hieu": {
+    "name": "📡 No Signal",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/dsxhDbBK/pb-khung1-mat-tin-hieu.png",
+    "bg": "#402060"
+  },
+  "pb_khung1_Camera_iPhone": {
+    "name": "📷 Camera iPhone",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/Kj3FFqYX/pb-khung1-Camera-i-Phone.png",
+    "bg": "#7A1F1F"
+  },
+  "pb_khung1_khong_buong": {
+    "name": "🎵 Không Buông",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/7x6Pb2xD/pb-khung1-khong-buong.png",
+    "bg": "#355C7D"
+  },
+  "pb_khung1_chua_som": {
+    "name": "💬 Chửa Sớm",
+    "category": "Trend",
+    "url": "https://i.ibb.co/0y80G7tC/pb-khung1-chua-som.png",
+    "bg": "#252525"
+  },
+  "trend_bang_tin_khan": {
+    "name": "🚨 Bảng Tin Khẩn",
+    "category": "Trend",
+    "url": "https://i.ibb.co/zVNyZmhM/trend-bang-tin-khan.png",
+    "bg": "#D62828"
+  },
+  "trend_ve_giu_xe": {
+    "name": "🎫 Vé Gửi Xe",
+    "category": "Trend",
+    "url": "https://i.ibb.co/LXjg2rpn/trend-ve-giu-xe.png",
+    "bg": "#6F8750"
+  },
+  "trend_vo_hoc_sinh": {
+    "name": "📓 Vở Học Sinh",
+    "category": "Trend",
+    "url": "https://i.ibb.co/fzf9t7gN/trend-vo-hoc-sinh.png",
+    "bg": "#D94742"
+  },
+  "trend_giao_vien_cham_bai": {
+    "name": "✏️ Giáo Viên Chấm Bài",
+    "category": "Trend",
+    "url": "https://i.ibb.co/ynSG9Ynm/trend-giao-vien-cham-bai.png",
+    "bg": "#C83232"
+  },
+  "trend_nhiem_vu_hom_nay_la": {
+    "name": "✅ Nhiệm Vụ Hôm Nay",
+    "category": "Trend",
+    "url": "https://i.ibb.co/7qS3qny/trend-nhiem-vu-hom-nay-la.png",
+    "bg": "#65846A"
+  },
+  "trend_hoa_don_di_choi": {
+    "name": "🧾 Hóa Đơn Đi Chơi",
+    "category": "Trend",
+    "url": "https://i.ibb.co/8DPcgyKx/trend-hoa-don-di-choi.png",
+    "bg": "#A67C52"
+  },
+  "trend_binh_luan_duoc_ghim": {
+    "name": "📌 Bình Luận Được Ghim",
+    "category": "Trend",
+    "url": "https://i.ibb.co/k6SVcsCb/trend-binh-luan-duoc-ghim.png",
+    "bg": "#9CA3AF"
+  },
+  "trend_camera_an_ninh": {
+    "name": "📹 Camera An Ninh",
+    "category": "Trend",
+    "url": "https://i.ibb.co/67hwdL0f/trend-camera-an-ninh.png",
+    "bg": "#374151"
+  },
+  "trend_thong_bao_ngan_hang": {
+    "name": "💳 Thông Báo Ngân Hàng",
+    "category": "Trend",
+    "url": "https://i.ibb.co/H6KZYDb/trend-thong-bao-ngan-hang.png",
+    "bg": "#16A34A"
+  },
+  "trend_chat_nhom_leak": {
+    "name": "💬 Chat Nhóm Leak",
+    "category": "Trend",
+    "url": "https://i.ibb.co/dv7KFzX/trend-chat-nhom-leak.png",
+    "bg": "#1559E8"
+  },
+  "pb_khung1_photobooth_cute": {
+    "name": "🎀 Photobooth Cute",
+    "category": "Frames",
+    "url": "https://i.ibb.co/rftzQtJ8/pb-khung1-photobooth-cute.png",
+    "bg": "#FFD6E0"
+  },
+  "pb_khung1_frame_classic_pb": {
+    "name": "🎞️ Photobooth Cổ Điển",
+    "category": "Frames",
+    "url": "https://i.ibb.co/chvrZsq6/pb-khung1-frame-classic-pb.png",
+    "bg": "#FF758C"
+  },
+  "pb_khung1_hello_kitty_pastel_ngot_ngao": {
+    "name": "🐱 Hello Kitty Ngọt Ngào",
+    "category": "Frames",
+    "url": "https://i.ibb.co/21DKfDpd/pb-khung1-hello-kitty-pastel-ngot-ngao.png",
+    "bg": "#FF758C"
+  },
+  "pb_khung1_hello_kitty_hong_pastel": {
+    "name": "🎀 Khung Hello Kitty Hồng",
+    "category": "Frames",
+    "url": "https://i.ibb.co/212LnDY4/pb-khung1-hello-kitty-hong-pastel.png",
+    "bg": "#FF758C"
+  },
+  "pb_khung1_pastel_vien_ren": {
+    "name": "🎀 Nơ Pastel Viền Ren",
+    "category": "Frames",
+    "url": "https://i.ibb.co/pvH98V12/pb-khung1-pastel-vien-ren.png",
+    "bg": "#FF758C"
+  },
+  "pb_khung1_hoa_pastel_vien_xanh_xinh": {
+    "name": "🌼 Hoa Xinh Pastel",
+    "category": "Frames",
+    "url": "https://i.ibb.co/V0JVKzCz/pb-khung1-hoa-pastel-vien-xanh-xinh.png",
+    "bg": "#51e6e4"
+  },
+  "pb_khung1_spiderred": {
+    "name": "🕷️ Nhện Đỏ",
+    "category": "Frames",
+    "url": "https://i.ibb.co/DPDXpXDH/pb-khung1-spiderred.png",
+    "bg": "#8F1D28"
+  },
+  "pb_khung1_khong_gian_xanh_pastel": {
+    "name": "🌙 Không Gian Xanh",
+    "category": "Frames",
+    "url": "https://i.ibb.co/PsM4mFBY/pb-khung1-khong-gian-xanh-pastel.png",
+    "bg": "#66BDE6"
+  },
+  "pb_khung1_ngoi_sao_hong_pastel": {
+    "name": "⭐ Ngôi Sao Hồng",
+    "category": "Frames",
+    "url": "https://i.ibb.co/JMjCMTq/pb-khung1-ngoi-sao-hong-pastel.png",
+    "bg": "#EF82BB"
+  },
+  "pb_khung1_pastel_so_hai_cau": {
+    "name": "🦭 Sò Hải Cẩu Pastel",
+    "category": "Frames",
+    "url": "https://i.ibb.co/QFPpT42Q/pb-khung1-pastel-so-hai-cau.png",
+    "bg": "#8DC6F0"
+  },
+  "pb_khung1_shin_chan": {
+    "name": "🖍️ Shin-Chan (1 ô)",
+    "category": "Frames",
+    "url": "https://i.ibb.co/j9GqnqzG/pb-khung1-shin-chan.png",
+    "bg": "#f00008"
+  },
+  "pb_khung1_anh_hellokitty_v_sao": {
+    "name": "⭐ Hello Kitty & Sao",
+    "category": "Frames",
+    "url": "https://i.ibb.co/KpBH441P/pb-khung1-anh-hellokitty-v-sao.png",
+    "bg": "#780c23"
+  },
+  "pb_khung1_xanh_tay_sao_vang": {
+    "name": "⭐ Sao Vàng Xanh",
+    "category": "Frames",
+    "url": "https://i.ibb.co/twnZnRCK/pb-khung1-xanh-tay-sao-vang.png",
+    "bg": "#6fb1d3"
+  },
+  "pb_khung1_sinh_nhat_hello_kitty": {
+    "name": "🎂 Sinh Nhật Hello Kitty",
+    "category": "Frames",
+    "url": "https://i.ibb.co/Mx5cRQ41/pb-khung1-sinh-nhat-hello-kitty.png",
+    "bg": "#B94C49"
+  },
+  "pb_khung1_y2k_silver_holo": {
+    "name": "💿 Khung Y2K Silver Holo",
+    "category": "Frames",
+    "url": "https://i.ibb.co/wZbz4TGv/pb-khung1-y2k-silver-holo.png",
+    "bg": "#C4B5FD"
+  },
+  "pb_khung1_denim_ripped": {
+    "name": "👖 Khung Denim Cá Tính",
+    "category": "Frames",
+    "url": "https://i.ibb.co/Hf2QXz3H/pb-khung1-denim-ripped.png",
+    "bg": "#294D75"
+  },
+  "pb_khung1_film_nostalgia": {
+    "name": "🎞️ Khung Film Hoài Cổ",
+    "category": "Frames",
+    "url": "https://i.ibb.co/1f56bB2H/pb-khung1-film-nostalgia.png",
+    "bg": "#D6A36A"
+  },
+  "pb_khung1_thu_tinh": {
+    "name": "💌 Thư Tình Gửi Cậu",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/fzcF9MPq/pb-khung1-thu-tinh.png",
+    "bg": "#E8A9B5"
+  },
+  "pb_khung1_cute": {
+    "name": "🎀 Cute Hết Cứu",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/jZw0VqSS/pb-khung1-cute.png",
+    "bg": "#FF9BCB"
+  },
+  "pb_khung1_anh_tho": {
+    "name": "🤡 Ảnh Thờ",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/7tVQDWxp/pb-khung1-anh-tho.png",
+    "bg": "#C78B38"
+  },
+  "pb_khung1_matmoc": {
+    "name": "🤪 Mặt Mộc",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/zThTFkT7/pb-khung1-matmoc.png",
+    "bg": "#383538"
+  },
+  "pb_khung1_luffy": {
+    "name": "🏴‍☠️ Truy Nã",
+    "category": "Khung 1 ảnh",
+    "url": "https://i.ibb.co/VcYsmTw7/pb-khung1-luffy.png",
+    "bg": "#D9C3A7"
+  },
+  "cmt_phai_luon_tu_te": {
+    "name": "💬 Phải Luôn Tử Tế",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/Jw1FkgJk/cmt-phai-luon-tu-te.png",
+    "bg": "#31343B"
+  },
+  "cmt_chi_can_mot_vet_xuoc": {
+    "name": "💬 Chỉ Cần Một Vết Xước",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/whcktGzW/cmt-chi-can-mot-vet-xuoc.png",
+    "bg": "#145B83"
+  },
+  "cmt_siuu": {
+    "name": "⚽ Ronaldo SIUUU",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/YBkxjvM7/cmt-siuu.png",
+    "bg": "#344B5B"
+  },
+  "cmt_binh_luan_minh_tue": {
+    "name": "💬 Trend Tíc Tóc",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/4n4MNd0q/cmt-binh-luan-minh-tue.png",
+    "bg": "#557C77"
+  },
+  "cmt_locket": {
+    "name": "💛 Locket Việt Nam",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/q37GwBbV/cmt-locket.png",
+    "bg": "#D99D17"
+  },
+  "cmt_sontung": {
+    "name": "🎤 Sơn Tùng MTP",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/9mWdMbgm/cmt-sontung.png",
+    "bg": "#344C47"
+  },
+  "cmt_xinh": {
+    "name": "💬 Ai Cho Xinh Vậy",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/Dm5Y52t/cmt-xinh.png",
+    "bg": "#F43F5E"
+  },
+  "cmt_posst": {
+    "name": "💬 Tấm Cuối Đáng Đăng",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/8Qq1Khx/cmt-posst.png",
+    "bg": "#EF4444"
+  },
+  "cmt_flash": {
+    "name": "⚡ Flash Đổi Nhân Cách",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/qLQJ1F97/cmt-flash.png",
+    "bg": "#06B6D4"
+  },
+  "cmt_duanma": {
+    "name": "👻 Dự Án Ma",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/k2cNRWTC/cmt-duanma.png",
+    "bg": "#EF4444"
+  },
+  "cmt_dichup": {
+    "name": "📸 Chụp 3 Tấm Lựa 3 Tiếng",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/ZzddktL0/cmt-dichup.png",
+    "bg": "#06B6D4"
+  },
+  "cmt_chuano": {
+    "name": "🌸 Đừng Khinh Thường Hoa",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/tMKs5gNC/cmt-chuano.png",
+    "bg": "#06B6D4"
+  },
+  "cmt_anhdim": {
+    "name": "📸 Bạn Thân Giữ Ảnh Dìm",
+    "category": "Comment TikTok",
+    "url": "https://i.ibb.co/B5bs5SRh/cmt-anhdim.png",
+    "bg": "#EF4444"
+  },
+  "pb_khung1_khong_can_ai_duyet": {
+    "name": "💬 Không Cần Ai Duyệt",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/cKH8Rdws/pb-khung1-khong-can-ai-duyet.png",
+    "bg": "#414141"
+  },
+  "pb_khung1_ban_la_gi_ma_toi_phai_ban_tam": {
+    "name": "💬 Bạn Là Gì?",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/FkWgZq1z/pb-khung1-ban-la-gi-ma-toi-phai-ban-tam.png",
+    "bg": "#292929"
+  },
+  "pb_khung1_ong_troi_that_bat_cong": {
+    "name": "💬 Ông Trời Thật Bất Công",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/xKKnjMLF/pb-khung1-ong-troi-that-bat-cong.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_yeu_giau_chu_co_phai_yeu_dau_dau_ma_doi_ghen": {
+    "name": "💬 Yêu Giấu Chứ Có Phải Yêu Dấu",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/ycxrqHKN/pb-khung1-yeu-giau-chu-co-phai-yeu-dau-dau-ma-doi-ghen.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_me_con_dien": {
+    "name": "💬 Mẹ Con Điên",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/KcJtD23M/pb-khung1-me-con-dien.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_thieu_vang_ngot_ngao_cua_em": {
+    "name": "💬 Thiếu Vắng Ngọt Ngào Của Em",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/SFkZcdP/pb-khung1-thieu-vang-ngot-ngao-cua-em.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_loi_cua_tao_a": {
+    "name": "💬 Lỗi Của Tao À?",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/8nkgRQmy/pb-khung1-loi-cua-tao-a.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_tao_song_sao": {
+    "name": "💬 Tao Sống Sao Kệ Tao?",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/CswzX5RP/pb-khung1-tao-song-sao.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_tuyet_vong": {
+    "name": "💬 Tuyệt Vọng",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/M5sDVhjp/pb-khung1-tuyet-vong.png",
+    "bg": "#242424"
+  },
+  "pb_khung1_dech_quan_tam": {
+    "name": "💬 Đếch Quan Tâm",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/XfncCV2Z/pb-khung1-dech-quan-tam.png",
+    "bg": "#607EA9"
+  },
+  "pb_khung1_met5_ma_cai_toi5m1": {
+    "name": "💬 Mét 5 Mà Cái Tôi 5m1",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/BVqZKT5r/pb-khung1-met5-ma-cai-toi5m1.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_99_phan_tram_co_the_la_ngai": {
+    "name": "💬 99% Cơ Thể Là Ngại",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/NdGF9t1R/pb-khung1-99-phan-tram-co-the-la-ngai.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_noi_ko_buon_la_noi_doi": {
+    "name": "💬 Nói Không Buồn Là Nói Dối",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/27hGzd1Q/pb-khung1-noi-ko-buon-la-noi-doi.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_mo_long_lan_nao_la_du_ma_lan_do": {
+    "name": "💬 Mở Lòng Lần Nào...",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/5xjV2GF4/pb-khung1-mo-long-lan-nao-la-du-ma-lan-do.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_uoc_gi_buon_cung_ra_tien": {
+    "name": "💬 Ước Gì Buồn Cũng Ra Tiền",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/SwVsK9Pc/pb-khung1-uoc-gi-buon-cung-ra-tien.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_han_toan": {
+    "name": "💬 Hận Toán",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/99y2GRK7/pb-khung1-han-toan.png",
+    "bg": "#DC2626"
+  },
+  "pb_khung1_khong_tin_dan_ong": {
+    "name": "💬 Không Tin Đàn Ông",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/mFM1dfKx/pb-khung1-khong-tin-dan-ong.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_kho_do_danh": {
+    "name": "💬 Khó Dỗ Dành",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/YB9Y74jR/pb-khung1-kho-do-danh.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_xinh_gai_tinh_quai": {
+    "name": "💬 Xinh Gái Tinh Quái",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/fGnn4btD/pb-khung1-xinh-gai-tinh-quai.png",
+    "bg": "#343434"
+  },
+  "pb_khung1_song_basic": {
+    "name": "💬 Sống Basic Cho Đời Cơ Bản",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/KjS2Fnq0/pb-khung1-song-basic.png",
+    "bg": "#CF0875"
+  },
+  "pb_khung1_hoang_tu_am_o": {
+    "name": "💬 Hoàng Tử Ẩm Ơ",
+    "category": "Tâm Trạng & Cà Khịa",
+    "url": "https://i.ibb.co/HLmd2z15/pb-khung1-hoang-tu-am-o.png",
+    "bg": "#343434"
+  }
+}
